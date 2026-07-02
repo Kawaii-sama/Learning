@@ -3,4 +3,8 @@
 3. selectors can be tags, classes, ids or their combinations.
 4. Anything can be added in that is html?
 5. After selectors are done, we need to define styles corresponding styles which get applied on selectors in HTML.
-6. Generally simple selectors are used but we can use of any kind :- css element selectors, 
+6. Generally simple selectors are used but we can use of any kind :- tag , class , id, element , attribute, universal
+7. three ways of using css:- 
+    external (most common) adding an external .css extension style sheet to html usink link tag, 
+    inline (not recommended) using style attribute directly in html page,
+    internal (embedded) using style tag in html and defining rules inside it.

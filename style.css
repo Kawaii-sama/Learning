@@ -2,6 +2,14 @@ h1, h2, h3 { // h1,h2,h3 are tag selectors
     font-weight : bold;
 }
 
-bg-blue { // bg-blue is a class selector
-    background-color : blue;
+.bg-blue { // bg-blue is a class selector. background of this class is blue
+    color : blue;
 }
+
+<link rel = "stylesheet" href = "style.css">
+
+<h1 style = "color:blue">
+
+<style>
+h1 { color : blue; }
+</style>
