@@ -1,0 +1,7 @@
+h1, h2, h3 { // h1,h2,h3 are tag selectors
+    font : bold;
+}
+
+bg-blue { // bg-blue is a class selector
+    background-color : blue;
+}
