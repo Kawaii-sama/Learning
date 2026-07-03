@@ -37,3 +37,7 @@ h1 {
 h1 {
     border: 2px; border-thickness: 2px; border-color: pink; border-style: dotted; 
 }
+
+h1{
+    border: 2px; padding: 10px; margin: 10px; background-color: cyan; width: 100px;
+}
