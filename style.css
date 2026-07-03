@@ -29,3 +29,7 @@ div , span {
     text-decoration: underline;
     font-size: 20px;
 }
+
+h1 {
+    background: cyan;
+}
