@@ -125,4 +125,5 @@
 35. interaction style uses file system apis. can run code on server by pulling up terminal with node commands.
 36. highly supported by browsers. chrome have v8 engine which supports js.
 37. react is a library of js built upon it.
+38. js's runtime is node.js helps us to talk to database, other servers and write apis.
 */
