@@ -121,4 +121,5 @@
 31. javascript is used to grab an element from the DOM.
 32. functions are first class objects for funtional programming but it also supports classes and inhertiance making it oops freindly.
 33. it can work asychronously thanks to promise api. supports async await syntax.
+34. can run on server because of node.js runtime.
 */
