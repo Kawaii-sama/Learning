@@ -123,5 +123,5 @@
 33. it can work asychronously thanks to promise api. supports async await syntax.
 34. can run on server because of node.js runtime.
 35. interaction style uses file system apis. can run code on server by pulling up terminal with node commands.
-36. highly supported by browsers.
+36. highly supported by browsers. chrome have v8 engine which supports js.
 */
