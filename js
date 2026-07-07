@@ -41,5 +41,9 @@
         console.log(Chal hatt);
     }
 
-10. loops is js:- for loop, for each, for of, while, do while
+10. loops in js:- for loop, for each, for of, while, do while:-
+    for each:- array.forEach( functon print{
+                console.log(arr[i]);
+                })
+    
 */
