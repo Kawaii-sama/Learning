@@ -129,5 +129,5 @@
 39. DOM (document object) , the most importamt object in js is, js representation of html structure. it is present in variable document when we load the page. document object has many element objects.
 40. through document object:- querySelector():- for searching for various elemnts.
     through element objects:- .addEventListener():-add user event listeners, .style .color:- change the appearance of the page
-41. funtion keyword for functions, . for methods.
+41. funtion keyword for functions, . for methods (.sort(), .toUpperCase(), .indexOf()).
 */
