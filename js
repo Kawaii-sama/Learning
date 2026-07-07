@@ -106,5 +106,7 @@
 17. Hoisting:- Interpreter sends variables, functions, classes at the top of the code before execution. but only declarations are transferred not initialization.
 
 18. javascript is oops, we have constructors as well as inheritance
-19. this keyword is used to target objects, different scope
+19. this keyword is used to target objects, different scope.
+20. javascript is high - level language because it:- a. manages memory (automatic garbage collection) and extracts hardware - level complexities.
+21. single threaded:- has a single call stack and executes one command at a time.
 */
