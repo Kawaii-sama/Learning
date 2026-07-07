@@ -87,4 +87,12 @@
     </body>
     </html>
 
+
+13. strings in js:-
+    let sisName = "Chakshu Pragya";
+    let motherName = "Mammma";
+    let fatherName = "Papa";
+
+    sisName.length;
+
 */
