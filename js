@@ -107,10 +107,12 @@
 
 18. javascript is oops, we have constructors as well as inheritance
 19. this keyword is used to target objects, different scope.
-20. javascript is high - level language because it:- a. manages memory (automatic garbage collection) and extracts hardware - level complexities.
-21. single threaded:- has a single call stack and executes one command at a time.
-22. interpreted:- executes line-by-line at run time.
+20. Javascript is high - level language because it:- a. manages memory (automatic garbage collection) and extracts hardware - level complexities.
+21. Single Threaded:- has a single call stack and executes one command at a time.
+22. Interpreted:- executes line-by-line at run time.
 23. JIT:- Just in time, dynamic conversion of javascript code into machine code before execution
-24. prototype - based:- object can inherit properties directly from other objects rather than blueprints.
-25. multi-paradigm :- supports multiple programming styles like:- procedural, oops, functional etc.
+24. Prototype-Based:- object can inherit properties directly from other objects rather than blueprints.
+25. Multi-paradigm :- supports multiple programming styles like:- procedural, oops, functional etc.
+26. Dynamic:- variable are typed at runtime, allows data types to change during execution.
+27. Non blocking event loop:- offloads time consuming tasks to system kernel so that javascript can execute code without waiting.
 */
