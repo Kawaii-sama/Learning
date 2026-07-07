@@ -42,8 +42,8 @@
     }
 
 10. loops in js:- for loop, for each, for of, while, do while:-
-    for each:- array.forEach( functon print{
-                console.log(arr[i]);
-                })
-    
+    for each:- array.forEach(function myFunc(index, element) {
+               console.log(index,element);
+               )}
+
 */
