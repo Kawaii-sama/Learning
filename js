@@ -45,5 +45,13 @@
     for each:- array.forEach(function myFunc(index, element) {
                console.log(index,element);
                )}
+    for of:- for ( let x of array) {
+                console.log(x);
+                }
+    while:- let i=5;
+            while(i<=5){
+            ...
+            i--;
+            }
 
 */
