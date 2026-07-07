@@ -100,6 +100,9 @@
     console.log (`My name is ${firstName} , ${lastName}`);
 
 15. const arr = ['Diamond' , 'Business'];
+
 16. console.log(typeof('Hello')); console.log(typeof(19.02));
+
+17. Hoisting:- Interpreter sends variables, functions, classes at the top of the code before execution. but only declarations are transferred not initialization.
 
 */
