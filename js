@@ -13,4 +13,13 @@
                     gender : female;
                     address:
                         1st: India}
+8. if (ui ==== id) {
+    else if (uc === id)
+        {else if (uf === id)
+            {else {
+                console.log("Hi")
+            }
+        }
+            }
+        }
 */
