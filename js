@@ -106,4 +106,5 @@
 17. Hoisting:- Interpreter sends variables, functions, classes at the top of the code before execution. but only declarations are transferred not initialization.
 
 18. javascript is oops, we have constructors as well as inheritance
+19. this keyword is used to target objects, different scope
 */
