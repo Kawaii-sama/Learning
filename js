@@ -120,4 +120,5 @@
 30. various listeners are used, one of them is btn.onclick = () => {}  , used for making button intercative
 31. javascript is used to grab an element from the DOM.
 32. functions are first class objects for funtional programming but it also supports classes and inhertiance making it oops freindly.
+33. it can work asychronously thanks to promise api.
 */
