@@ -109,4 +109,6 @@
 19. this keyword is used to target objects, different scope.
 20. javascript is high - level language because it:- a. manages memory (automatic garbage collection) and extracts hardware - level complexities.
 21. single threaded:- has a single call stack and executes one command at a time.
+22. interpreted:- executes line-by-line at run time.
+23. JIT:- Just in time, dynamic conversion of javascript code into machine code before execution
 */
