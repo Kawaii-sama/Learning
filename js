@@ -112,4 +112,5 @@
 22. interpreted:- executes line-by-line at run time.
 23. JIT:- Just in time, dynamic conversion of javascript code into machine code before execution
 24. prototype - based:- object can inherit properties directly from other objects rather than blueprints.
+25. multi-paradigm :- supports multiple programming styles like:- procedural, oops, functional etc.
 */
