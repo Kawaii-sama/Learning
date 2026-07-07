@@ -60,4 +60,31 @@
               x--;
               }while(x>0);
 
+11. function add(a+b) {
+    return a+b;
+    }
+
+    add(1,2);
+
+    fat arrow functions:- let add = (a,b) => {
+                            a+b;
+                            }
+
+12. many events can be triggered in js , we can customize some of them to fire at ideal time.
+    syntax:-
+    <!DOCTYPE html>
+    <html>
+    <body>
+    <button id="test"> Click me </button>
+    <script>
+
+    var wish = document.getElementByID("test");
+
+    test.onclick = funtion() {
+        console.log("Happy Birthday");
+        };
+    </script>
+    </body>
+    </html>
+
 */
