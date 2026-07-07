@@ -6,5 +6,5 @@
 4. const:- update no, redeclare no
 5. Airthmatic operators:- + , - , * , / , %
 6. Datatypes:- Primitive:- immutable data which is at lowest level of this language. object:- key value pair
-    to access keys in object:- object['key']
+    to access keys in object:- object['key'] or object.key
 */
