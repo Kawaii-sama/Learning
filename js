@@ -54,4 +54,10 @@
             i--;
             }
 
+    do while:-let x = 10;
+              do{
+              cosole.log(x);
+              x--;
+              }while(x>0);
+
 */
