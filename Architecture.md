@@ -1,3 +1,6 @@
+app.controller.spec.ts :-> for testing controllers
+
+
 my-nest-learning
 │
 ├── dist/ -> for distribution that we have to take to production site removing every    extra building dependency or any extra or unnecessary utilities for production purpose.
