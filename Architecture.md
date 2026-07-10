@@ -31,7 +31,7 @@ my-nest-learning
 │   ├── app.service.ts
 │   └── app.controller.spec.ts
 │
-├── test/
+├── test/ -> for testing
 │
 ├── package.json
 ├── package-lock.json
@@ -39,7 +39,7 @@ my-nest-learning
 ├── tsconfig.build.json
 ├── nest-cli.json
 ├── eslint.config.mjs
-├── .gitignore
+├── .gitignore -> list of files that should not be tracked by git
 ├── .prettierrc
 ├── README.md
 └── Architecture.md
