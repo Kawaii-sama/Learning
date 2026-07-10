@@ -2,6 +2,7 @@ app.controller.spec.ts -> for testing controllers
 app.controller.ts -> for controllers.
 app.modules.ts -> module and controllers , providers details. (root module)
 app.services.ts -> business logic called by controllers
+main.ts -> entry point of application, execution starts from here.
 
 
 my-nest-learning
