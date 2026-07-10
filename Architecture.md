@@ -33,8 +33,8 @@ my-nest-learning
 │
 ├── test/ -> for testing
 │
-├── package.json
-├── package-lock.json
+├── package.json -> details (most important)
+├── package-lock.json -> details of dependencies and sub dependencies
 ├── tsconfig.json -> how typescript must be compiled
 ├── tsconfig.build.json -> used at build time, while compiling optimized typescript
 ├── nest-cli.json -> reads commands of cli
