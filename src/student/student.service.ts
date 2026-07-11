@@ -44,5 +44,11 @@ export class StudentService {
         return student;
     }
 
-    
+    //DELETE:-
+    deleteStudent(id: number) {
+        const index = this.students.findIndex((s) => s.id === id);
+        if (index === -1) throw new NotFoundException('Student Not Found!');
+        const deleted = this.students.splice(index,1);
+        return {message: 'Student Deleted' , student : deleted[0]}
+    }
 }
