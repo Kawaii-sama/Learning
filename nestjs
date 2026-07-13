@@ -14,6 +14,13 @@
 12. Interfaces:- provides set of rules, can be used with DTO, cleanliness, structure, type safe
 13. class-validator:- typescript ki classes ki properties ko validate kartein hain.
 14. class- transformer:- plain json objects ko --> classes ke instance mein convert karta hai
-14. class validator class instances ko validate karta hai
-15. Pipes:- tranform or validate the data and runs itself before the data goes to controller (route handler)
+15. class validator class instances ko validate karta hai
+16. Pipes:- tranform or validate the data and runs itself before the data goes to controller (route handler)
+17. Guards:- before pipes, used for authentication and authorization
+18. setmetadata:- puts multiple values into decorators
+19. Refector:- gets the value set by setmetadata
+20. consts are defined in enum
+21. Lifecycle Events:- special methods, lifecycle methods, hooks
+22. NoSQL:- Not Only Structured Query Language, non-relational databse, no schema no table, json format, flexible
+23. MongoDB:- document :- JSON like documents. Easy integraion of mongoose with NestJS, Schema is flexible no need of migration
 */
